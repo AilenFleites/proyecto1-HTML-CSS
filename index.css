@@ -1,0 +1,124 @@
+  /*estilos generales*/
+  body {
+    background-color: #4ea0ae;
+   
+}
+h5, h1 {
+    font-family: 'Playfair Display', serif;
+    color:#201931 ;
+}
+h4{
+    color: lightblue;
+}
+
+p, a, footer h6 {
+    color: #fff48f;
+}
+.header-buscador{
+    font-size: 40px;
+}
+/*estilos de específicos de home*/       
+.card-img-top {
+    width: 100%;
+    height: 18vw;
+    object-fit: cover;
+    border-radius: 0%;
+}
+
+.card-img {
+    height: 16vw;
+    border-radius: 0%;
+}
+
+.card {
+    padding-left: 0%;
+    padding-right: 0%;
+    border: none;
+    border-radius: 0%;
+
+}
+.card h5, h6,h1 {
+    color:#4ea0ae;
+}
+
+.articulo_blog p{
+    color:#3b2e5a;
+}
+
+.buscador {
+    background-image: url(img/aerial-view-of-the-beach-shore.jpg);
+    background-size:cover;
+    height: 300px;
+}
+
+.ofertas{
+    background-color: #394989;
+}
+
+/* efectos*/
+.card:hover{ 
+    box-shadow: 3px 3px 3px 2px hsl(258, 32%, 17%,0.8);
+}
+div .articulo_blog:hover{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+div .ofertas:hover {
+    background-color: #3b2e5a !important;
+}
+/* media querie para tablet*/
+
+@media (min-width: 768px) and (max-width: 1356px){
+.card-img {
+    height: 34vw;
+    width: 95%;
+}
+.blog .card-body { 
+    margin:auto;
+    padding: 5px;
+    width: 90%;
+    height: 90%;
+}
+.card-img-top{
+    height: 25vw;
+}
+.card:hover{ 
+    box-shadow: none;
+}
+div .articulo_blog:hover{
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);}
+div .ofertas{
+    background-color:#3b2e5a;
+}
+
+
+}
+/* media querie para phones*/
+@media (min-width: 280px) and (max-width: 767px){
+.buscador{
+        height:450px;
+    }
+.header-buscador{
+        font-size: 30px;
+    }
+#destino, #ciudad {
+    height: 3rem;
+}
+.card-img-top{
+    height: 50vw;
+}
+.card-img {
+    height: 50vw;
+}
+div .ofertas{
+    background-color:#3b2e5a;
+}
+.card:hover{ 
+    box-shadow: none;
+}
+div .articulo_blog:hover{
+    -webkit-transform: scale(1.0);
+    transform: scale(1.0);}
+
+}
