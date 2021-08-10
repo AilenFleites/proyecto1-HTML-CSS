@@ -1,7 +1,6 @@
 # Proyecto: Sitio Web de turismo
 
-Este fue mi primer sitio web responsive, diseñado utilizando puramente HTML, CSS y BOOTSTRAP.
-Estre proyecto fue realizado como evaluación dentro del curso de programación frontend que realicé en ADA IT.
+Este fue mi primer sitio web de maquetado, el mismo  no posee funcionalidad ya que fue diseñado utilizando únicamente HTML, CSS y BOOTSTRAP para lograr un diseño responsivo.
 
 A continuación podrás encontrar los requerimientos en base a los cuales diseñé y desarrollé este sitio:
 
