@@ -2,6 +2,9 @@
 
 Este fue mi primer sitio web de maquetado, el mismo  no posee funcionalidad ya que fue diseñado utilizando únicamente HTML, CSS y BOOTSTRAP para lograr un diseño responsivo.
 
+Deploy: https://ailenfleites.github.io/proyecto1-HTML-CSS/
+
+
 A continuación podrás encontrar los requerimientos en base a los cuales diseñé y desarrollé este sitio:
 
 
