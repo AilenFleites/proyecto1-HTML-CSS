@@ -57,6 +57,3 @@ Todas las paginas deben contener:
 - Logo/Titulo al azar
 - Footer con detalles de contacto
 - Formulario de Suscripción a Promociones.
-
-Evaluación:
-Diseño, Homogeneidad, estructura de código, calidad de código, variedad de
