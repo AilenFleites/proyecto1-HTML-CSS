@@ -1,6 +1,6 @@
 # Proyecto: Sitio Web de turismo
 
-Este fue mi primer sitio web de maquetado, el mismo  no posee funcionalidad ya que fue diseñado utilizando únicamente HTML, CSS y BOOTSTRAP para lograr un diseño responsivo.
+Este fue mi primer sitio (maquetado) web, el mismo  no posee funcionalidad ya que fue diseñado utilizando únicamente HTML, CSS y BOOTSTRAP para lograr un diseño responsivo.
 
 Deploy: https://ailenfleites.github.io/proyecto1-HTML-CSS/
 
