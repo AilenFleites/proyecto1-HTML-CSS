@@ -14,6 +14,12 @@ h4{
 p, a, footer h6 {
     color: #fff48f;
 }
+.heading-bg-color {
+    background-color: #fff48f;
+}
+.register-bg-color{
+    background-color: #3b2e5a;
+}
 
 .card {
     padding-left: 0%;
@@ -22,7 +28,7 @@ p, a, footer h6 {
     border-radius: 0%;
 
 }
-.card h5, h6,h1, div .resumen-compra h5 {
+.card h5, h6,h1, div .resumen-compra h5, .reviews h5 {
     color:#4ea0ae;
 }
 
@@ -69,6 +75,9 @@ p, a, footer h6 {
 .w-100{
     height: 500px;
 }
+.reviews{
+    background-color: #fff;
+}
 
 .img-reviews{
     width: 30%;
@@ -101,10 +110,10 @@ form label {
 
 /*EFECTOS*/
 /*generales*/
-.card:hover{ 
+.card:hover, .reviews:hover { 
     box-shadow: 3px 3px 3px 2px hsl(258, 32%, 17%,0.8);
 }
-.resumen-compra h2:hover, .reviews:hover,.articulo_blog:hover {
+.resumen-compra h2:hover,.articulo_blog:hover {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
 }
